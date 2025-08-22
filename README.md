@@ -1,4 +1,4 @@
-# Spatio-Temporal_Data_in_Distributed_Systems_VAT_Algo
+# Clustering_Spatio-Temporal_Data_in_Distributed_Systems_VAT_Algo
 Clustering Tendency Assessment of IoT-Generated Spatio-Temporal Data in Distributed Systems
 
 The image below provides scatter plots of clustered physical parameters on the left and clustered spatio-temporal parameters on the right, which are the outputs of the code.
